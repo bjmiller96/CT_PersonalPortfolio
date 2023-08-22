@@ -1,0 +1,10 @@
+header, .navbar, h5, #footer {
+    font-family: 'Permanent Marker', cursive;
+    /* font-family: 'Play', sans-serif; */
+    /* font-family: 'Russo One', sans-serif; */
+    /* font-family: 'Source Code Pro', monospace; */
+}
+
+li, p {
+    font-family: 'Varela', sans-serif;
+}
